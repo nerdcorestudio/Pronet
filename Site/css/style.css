@@ -1,0 +1,13 @@
+body {
+			background: #000;
+			font-size: 80%;
+			padding: 20px;
+		}
+
+		.center {
+		    bottom: 0; left: 0; top: 0; right: 0;
+		    margin: auto;
+		    position: absolute;
+		    width: 300;
+		    height: 234px;
+		}
